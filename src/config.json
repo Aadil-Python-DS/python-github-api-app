@@ -1,0 +1,17 @@
+{
+    "GITHUB_API_TOKEN":"g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",
+    "REPO_DETAILS":[
+      {
+        "REPO_OWNER":"Aadil-Python-DS",
+        "REPO_NAME":"python-github-api-app"
+      }
+    ],
+    "REQUEST_TIME_INTERVAL":0.01,
+    "RAW_DATA_PATH":"./raw_data",
+    "CLEANED_DATA_PATH":"./cleaned_data",
+    "METRICS_DATA_PATH":"./metrics_data",
+    "DB_USERNAME": "root",
+    "DB_PASSWD": "root",
+    "DB_NAME": "pr",
+    "DB_NETWORK": "database"
+}
